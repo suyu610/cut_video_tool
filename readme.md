@@ -1,5 +1,5 @@
 ### 采用python、tkinter开发
-![image](https://github.com/suyu610/cut_video_tool/blob/main/images/readme.jpg)
+<img src="https://cdns.qdu.life/tmp/readme.jpg" width="600"  alt="支付宝小程序"/><br/>
 
 ### 使用方式
 1. pip install -r requirements.txt
